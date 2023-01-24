@@ -1,0 +1,17 @@
+body{
+    background-color: #dcdcdc;
+    margin:0;
+    font-style: Cedarville Cursive;
+}
+hr{
+    margin: 20px auto ;
+    color: grey;
+    border-style: dotted none none;
+    width:10%;
+    border-width: 10px;
+    }
+img{
+    width:200px;
+    position:relative;
+    
+}
